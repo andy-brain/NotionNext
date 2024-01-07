@@ -1,16 +1,16 @@
 {
-  "name": "notion-next",
+  "name": "QiDian-Blog",
   "version": "4.1.3",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "homepage": "https://github.com/andy-brain/NotionNext.git",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/andy-brain/NotionNext.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "Andy",
+    "email": "beyonds@outlook.com",
+    "url": "http://qidian.space"
   },
   "scripts": {
     "dev": "next dev",
@@ -71,7 +71,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "url": "https://github.com/andy-brain/NotionNext/issues",
+    "email": "beyonds@outlook.com"
   }
 }
